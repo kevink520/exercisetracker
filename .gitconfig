@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /etc/.gitignore-global
+[user]
+	email = kevinkim75@gmail.com
+	name = Kevin Kim
