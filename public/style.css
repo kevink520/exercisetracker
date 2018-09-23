@@ -4,11 +4,15 @@
 }
 
 body {
-  displa
   font-family:sans-serif;
   margin: 25px;
   color: #222;
   background-image: linear-gradient(to right, #acb6e5 0%, #86fde8 100%);
+}
+
+.container {
+  max-width: 685px;
+  margin: 50px auto;
 }
 
 h1 {
