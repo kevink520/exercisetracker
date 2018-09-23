@@ -58,14 +58,15 @@ input {
 input[type=submit] {
   font-size: 16px;
   border-radius: 3px;
-  background-color: #f1c40f;
+  background: #f1c40f;
   color: #fff;
   cursor: pointer;
   transition: 0.35s;
+  -webkit-appearance: none;
 }
 
 input[type=submit]:hover {
-  background-color: #d8ab00;
+  background: #d8ab00;
 }
 
 code {
