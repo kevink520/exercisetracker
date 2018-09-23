@@ -56,10 +56,11 @@ input[type=submit] {
   background-color: #f1c40f;
   color: #fff;
   cursor: pointer;
+  transition: 0.35s;
 }
 
 input[type=submit]:hover {
-  background-color: #ffeaa7;
+  background-color: #8ab00;
 }
 
 code {
